@@ -1,8 +1,8 @@
 ﻿Implementation code (V3) for cvpr 2015:
 ===========================================================================
-W. Wang, J. Shen, F. Porikli, 
-Saliency-aware geodesic video object segmentation, 
-IEEE CVPR, pp. 3395-3402, 2015
+W. Wang, J. Shen, R. Yang, and F. Porikli, 
+Saliency-aware Video Object Segmentation, 
+IEEE Trans. on Pattern Analysis and Machine Intelligence, 40(1):20-33, 2018
 ========================================================================
 
 The code is free to use for research purposes. If you use this software for research 
