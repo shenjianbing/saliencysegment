@@ -1,4 +1,4 @@
-﻿Implementation code (V3) for cvpr 2015 and pami 2018:
+﻿Implementation code (V3) for cvpr 2015 and PAMI 2018:
 ===========================================================================
 W. Wang, J. Shen, R. Yang, and F. Porikli, 
 Saliency-aware Video Object Segmentation, 
